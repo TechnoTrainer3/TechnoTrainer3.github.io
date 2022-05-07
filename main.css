@@ -1,0 +1,18 @@
+.clock {
+    background: #FF0000;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.clock-time,
+.clock-ampm {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 30px;
+    color: #000000;
+}
+
+.clock-time {
+    font-size: 40px;
+}
